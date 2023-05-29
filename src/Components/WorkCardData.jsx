@@ -1,6 +1,6 @@
-import pro1 from "../assets/images (3).jpeg"
+import pro1 from "../assets/images (3).jpeg";
 import pro2 from "../assets/GetPaidStock.com-6474c230520ed.jpg";
-import pro3 from "../assets/GetPaidStock.com-6474c2d72dda7.jpg"
+import pro3 from "../assets/GetPaidStock.com-6474c2d72dda7.jpg";
 import pro4 from "../assets/IMG_20230422_134329.jpg";
 import pro5 from "../../src/assets/[GetPaidStock.com]-6474c3ce414c5.jpg";
 import pro6 from "../assets/[GetPaidStock.com]-6474c4ff47361.jpg";
