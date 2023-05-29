@@ -1,7 +1,15 @@
-import pro1 from "../assets/images.jpeg"
-import pro2 from "../assets/images (1).jpeg";
-import pro3 from "../assets/images (2).jpeg"
+import pro1 from "../assets/images (3).jpeg"
+import pro2 from "../assets/GetPaidStock.com-6474c230520ed.jpg";
+import pro3 from "../assets/GetPaidStock.com-6474c2d72dda7.jpg"
 import pro4 from "../assets/IMG_20230422_134329.jpg";
+import pro5 from "../../src/assets/[GetPaidStock.com]-6474c3ce414c5.jpg";
+import pro6 from "../assets/[GetPaidStock.com]-6474c4ff47361.jpg";
+import pro7 from "../assets/[GetPaidStock.com]-6474c581a5b53.jpg";
+import pro8 from "../assets/[GetPaidStock.com]-6474c60ac85af.jpg";
+import pro9 from "../assets/[GetPaidStock.com]-6474c674e616c.jpg";
+import pro10 from "../assets/[GetPaidStock.com]-6474c701c89b2.jpg";
+import pro11 from "../assets/GetPaidStock.com-6474c1778152b.jpg";
+import pro12 from "../assets/GetPaidStock.com-6474c230520ed.jpg";
 
 const ProjectCardData = [
     {
@@ -37,7 +45,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro5,
        title: "Rekhta Website",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/Rekhta_Website/",
@@ -45,7 +53,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro6,
        title: "Counter",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/Counter/",
@@ -53,7 +61,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro7,
        title: "iEducate Website",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/iEducate/",
@@ -61,7 +69,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro8,
        title: "Bolly Flix Website",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/New_Bolly_flix_website/",
@@ -69,7 +77,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro9,
        title: "Tutorify Website",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/Tutorify/",
@@ -77,7 +85,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro10,
        title: "Math Game",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/math_game/",
@@ -85,7 +93,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro11,
        title: "Quran Application",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: "https://ghulammustafabloch.github.io/QuranApp/",
@@ -93,7 +101,7 @@ const ProjectCardData = [
        viewSource: "Source"
    },
    {
-       imgsrc: pro3,
+       imgsrc: pro12,
        title: "Quran Application",
        text: "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
        view: " https://ghulammustafabloch.github.io/Quran_App/",
