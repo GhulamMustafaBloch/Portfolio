@@ -1,7 +1,7 @@
 import pro1 from "../assets/images.jpeg"
-import pro2 from "../assets/images (1).jpeg"
+import pro2 from "../assets/images (1).jpeg";
 import pro3 from "../assets/images (2).jpeg"
-import pro4 from "../assets/IMG_20230422_134329.jpg"
+import pro4 from "../assets/IMG_20230422_134329.jpg";
 
 const ProjectCardData = [
     {
