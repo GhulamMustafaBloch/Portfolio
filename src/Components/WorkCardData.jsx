@@ -10,7 +10,7 @@ import pro9 from "../assets/[GetPaidStock.com]-6474c674e616c.jpg";
 import pro10 from "../assets/[GetPaidStock.com]-6474c701c89b2.jpg";
 import pro11 from "../assets/GetPaidStock.com-6474c1778152b.jpg";
 import pro12 from "../assets/GetPaidStock.com-6474c230520ed.jpg";
-import pro13 from "../assets/IMG_20230405_225924.jpg";
+import pro13 from "../assets/IMG_20230422_134329.jpg";
 
 const ProjectCardData = [
   {
@@ -126,7 +126,7 @@ const ProjectCardData = [
     title: "My Portfolio",
     text:
       "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
-    view: " https://ghulammustafabloch.github.io/Quran_App/",
+    view: " https://ghulammustafabloch.github.io/My_Personel_Portfolio/",
     viewText: "view",
     viewSource: "Source"
   }
