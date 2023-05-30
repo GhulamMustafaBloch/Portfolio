@@ -113,23 +113,30 @@ const ProjectCardData = [
     viewSource: "Source"
   },
   {
-    imgsrc: pro12,
-    title: "Quran Application",
-    text:
-      "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
-    view: " https://ghulammustafabloch.github.io/Quran_App/",
+    imgsrc: pro13,
+    title: "My Portfolio",
+    text:"top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
+    view: "https://ghulammustafabloch.github.io/My_Personel_Portfolio/",
     viewText: "view",
     viewSource: "Source"
   },
   {
-    imgsrc: pro13,
+    imgsrc: pro12,
     title: "My Portfolio",
-    text:
-      "top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
-    view: " https://ghulammustafabloch.github.io/My_Personel_Portfolio/",
+    text:"top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
+    view: "https://ghulammustafabloch.github.io/Quran_App/",
     viewText: "view",
     viewSource: "Source"
   }
+];
+// {
+//   imgsrc: pro12,
+//   title: "Quran Application",
+//   text:"top-ranked thriving Facebook community and  podcast, Amy inspires a grounded, tangible and self-affirming sense of Wow! really can do this for over 100,000 online entrepreneurs. Best-selling courses",
+//   view: " https://ghulammustafabloch.github.io/Quran_App/",
+//   viewText: "view",
+//   viewSource: "Source"
+// },
   //    {
   //        imgsrc: pro1,
   //        title: "Ecommerce Website Design",
@@ -154,5 +161,4 @@ const ProjectCardData = [
   //        viewText: "view",
   //        viewSource: "Source"
   //    }
-];
 export default ProjectCardData;
