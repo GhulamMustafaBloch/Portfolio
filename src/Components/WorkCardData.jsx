@@ -10,7 +10,7 @@ import pro9 from "../assets/[GetPaidStock.com]-6474c674e616c.jpg";
 import pro10 from "../assets/[GetPaidStock.com]-6474c701c89b2.jpg";
 import pro11 from "../assets/GetPaidStock.com-6474c1778152b.jpg";
 import pro12 from "../assets/GetPaidStock.com-6474c230520ed.jpg";
-import pro12 from "../assets/IMG_20230405_225924.jpg";
+import pro13 from "../assets/IMG_20230405_225924.jpg";
 
 const ProjectCardData = [
   {
